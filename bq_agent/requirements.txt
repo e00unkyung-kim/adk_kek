@@ -1,0 +1,8 @@
+google-ai-agent-sdk
+google-adk
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-logging
+google-auth
+python-dotenv
+flask
