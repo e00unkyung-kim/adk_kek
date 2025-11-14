@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 google-ai-agent-sdk
 google-adk
 google-cloud-aiplatform
