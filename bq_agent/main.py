@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from agent import root_agent
+from bq_agent.agent import get_bigquery_agent as root_agent
 
 app = FastAPI()
 
